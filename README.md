@@ -2,4 +2,4 @@
 
 Hi,
 
-This is my school project. We're currently learning how to use github.
+This is my school project. We're currently learning how to use unity.
